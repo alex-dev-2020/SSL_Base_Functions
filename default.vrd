@@ -5,7 +5,7 @@
 		base="/InfoBase"
 		ib="Srvr=localhost;Ref=InfoBase;">
 	<ws pointEnableCommon="true"/>
-	<standardOdata enable="false"
+	<standardOdata enable="true"
 			reuseSessions="autouse"
 			sessionMaxAge="20"
 			poolSize="10"
